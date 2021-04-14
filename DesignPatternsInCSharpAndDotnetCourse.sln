@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src/DesignPatternsInCSharpAndDotnetCourse.Solid", "src/DesignPatternsInCSharpAndDotnetCourse.Solid\DesignPatternsInCSharpAndDotnetCourse.Solid.csproj", "{F96715CD-F72D-491C-9067-E39B459AED6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96715CD-F72D-491C-9067-E39B459AED6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96715CD-F72D-491C-9067-E39B459AED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96715CD-F72D-491C-9067-E39B459AED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96715CD-F72D-491C-9067-E39B459AED6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8315B362-C63C-40FD-86A8-F03679B07E73}
+	EndGlobalSection
+EndGlobal
