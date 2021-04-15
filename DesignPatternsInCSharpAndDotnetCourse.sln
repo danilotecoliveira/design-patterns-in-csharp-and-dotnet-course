@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsInCSharpAndDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.O", "src\DesignPatternsInCSharpAndDotnetCourse.Solid\DesignPatternsCourse.Solid.O\DesignPatternsCourse.Solid.O.csproj", "{01BD87DC-924D-48F8-9DCB-DEDDE350D8E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.L", "src\DesignPatternsCourse.Solid.L\DesignPatternsCourse.Solid.L.csproj", "{36B960F4-17F3-485C-90FB-D2109C1F4A84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{01BD87DC-924D-48F8-9DCB-DEDDE350D8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01BD87DC-924D-48F8-9DCB-DEDDE350D8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01BD87DC-924D-48F8-9DCB-DEDDE350D8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
