@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.I", "src\DesignPatternsCourse.Solid.I\DesignPatternsCourse.Solid.I.csproj", "{BA6701EC-8138-4486-9347-760664F27E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.D", "src\DesignPatternsCourse.Solid.D\DesignPatternsCourse.Solid.D.csproj", "{3D3ED43C-CC5D-4245-8D5E-40558D833108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BA6701EC-8138-4486-9347-760664F27E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA6701EC-8138-4486-9347-760664F27E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA6701EC-8138-4486-9347-760664F27E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
