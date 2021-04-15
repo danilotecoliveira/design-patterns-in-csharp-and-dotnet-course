@@ -27,7 +27,7 @@ namespace DesignPatternsCourse.Solid.L
 
         public class Square : Rectangle
         {
-            public override int Width // nasty side effects
+            public override int Width
             {
                 set { base.Width = base.Height = value; }
             }

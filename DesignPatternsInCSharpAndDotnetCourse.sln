@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsInCSharpAndDotnetCourse.Solid.S", "src\DesignPatternsInCSharpAndDotnetCourse.Solid\DesignPatternsInCSharpAndDotnetCourse.Solid.S.csproj", "{F96715CD-F72D-491C-9067-E39B459AED6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.S", "src\DesignPatternsInCSharpAndDotnetCourse.Solid\DesignPatternsCourse.Solid.S.csproj", "{F96715CD-F72D-491C-9067-E39B459AED6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.O", "src\DesignPatternsInCSharpAndDotnetCourse.Solid\DesignPatternsCourse.Solid.O\DesignPatternsCourse.Solid.O.csproj", "{01BD87DC-924D-48F8-9DCB-DEDDE350D8E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.O", "src\DesignPatternsInCSharpAndDotnetCourse.Solid\DesignPatternsCourse.Solid.O\DesignPatternsCourse.Solid.O.csproj", "{01BD87DC-924D-48F8-9DCB-DEDDE350D8E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.L", "src\DesignPatternsCourse.Solid.L\DesignPatternsCourse.Solid.L.csproj", "{36B960F4-17F3-485C-90FB-D2109C1F4A84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.L", "src\DesignPatternsCourse.Solid.L\DesignPatternsCourse.Solid.L.csproj", "{36B960F4-17F3-485C-90FB-D2109C1F4A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.I", "src\DesignPatternsCourse.Solid.I\DesignPatternsCourse.Solid.I.csproj", "{BA6701EC-8138-4486-9347-760664F27E5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B960F4-17F3-485C-90FB-D2109C1F4A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6701EC-8138-4486-9347-760664F27E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6701EC-8138-4486-9347-760664F27E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6701EC-8138-4486-9347-760664F27E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6701EC-8138-4486-9347-760664F27E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
