@@ -9,9 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.L", "src\DesignPatternsCourse.Solid.L\DesignPatternsCourse.Solid.L.csproj", "{36B960F4-17F3-485C-90FB-D2109C1F4A84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.I", "src\DesignPatternsCourse.Solid.I\DesignPatternsCourse.Solid.I.csproj", "{BA6701EC-8138-4486-9347-760664F27E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.I", "src\DesignPatternsCourse.Solid.I\DesignPatternsCourse.Solid.I.csproj", "{BA6701EC-8138-4486-9347-760664F27E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatternsCourse.Solid.D", "src\DesignPatternsCourse.Solid.D\DesignPatternsCourse.Solid.D.csproj", "{3D3ED43C-CC5D-4245-8D5E-40558D833108}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.Solid.D", "src\DesignPatternsCourse.Solid.D\DesignPatternsCourse.Solid.D.csproj", "{3D3ED43C-CC5D-4245-8D5E-40558D833108}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatternsCourse.CreationalPatterns.Builder", "src\DesignPatternsCourse.CreationalPatterns.Builder\DesignPatternsCourse.CreationalPatterns.Builder.csproj", "{01822138-D2D3-4CB3-9B35-B9B22B599C20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Builder.FluentRecursiveGenerics", "CreationalPatterns.Builder.FluentRecursiveGenerics\CreationalPatterns.Builder.FluentRecursiveGenerics.csproj", "{3E50C95F-EB24-4F54-B3D4-D750456BC691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Builder.FunctionalBuilder", "CreationalPatterns.Builder.FunctionalBuilder\CreationalPatterns.Builder.FunctionalBuilder.csproj", "{6E954601-79D3-4F45-8525-1F401750E94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Builder.FacetedBuilder", "CreationalPatterns.Builder.FacetedBuilder\CreationalPatterns.Builder.FacetedBuilder.csproj", "{49D82601-FAF5-423C-867A-E0323E8DBBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalPatterns.Builder.Exercise", "CreationalPatterns.Builder.Exercise\CreationalPatterns.Builder.Exercise.csproj", "{E460C0DA-A7EC-4D9E-BFFF-01E48DF98C06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D3ED43C-CC5D-4245-8D5E-40558D833108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01822138-D2D3-4CB3-9B35-B9B22B599C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01822138-D2D3-4CB3-9B35-B9B22B599C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01822138-D2D3-4CB3-9B35-B9B22B599C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01822138-D2D3-4CB3-9B35-B9B22B599C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E50C95F-EB24-4F54-B3D4-D750456BC691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E50C95F-EB24-4F54-B3D4-D750456BC691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E50C95F-EB24-4F54-B3D4-D750456BC691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E50C95F-EB24-4F54-B3D4-D750456BC691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E954601-79D3-4F45-8525-1F401750E94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E954601-79D3-4F45-8525-1F401750E94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E954601-79D3-4F45-8525-1F401750E94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E954601-79D3-4F45-8525-1F401750E94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D82601-FAF5-423C-867A-E0323E8DBBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D82601-FAF5-423C-867A-E0323E8DBBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D82601-FAF5-423C-867A-E0323E8DBBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D82601-FAF5-423C-867A-E0323E8DBBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E460C0DA-A7EC-4D9E-BFFF-01E48DF98C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E460C0DA-A7EC-4D9E-BFFF-01E48DF98C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E460C0DA-A7EC-4D9E-BFFF-01E48DF98C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E460C0DA-A7EC-4D9E-BFFF-01E48DF98C06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
